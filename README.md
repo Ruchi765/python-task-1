@@ -29,4 +29,4 @@ Here's a well-structured document based on the provided information. It includes
 <h2>Conclusion</h2>
 <p>The Mini Calculator is an efficient and straightforward application ideal for quick and basic arithmetic calculations. Its simplicity makes it accessible to users of all ages, while its functionality ensures it meets everyday computational needs. This project demonstrates the core principles of creating a functional GUI application, including user input handling, event-driven programming, and basic error checking. The Mini Calculator can serve as a foundational project for those interested in developing more complex applications in the future.</p>
 <h2>Screenshot of the Mini Project Output</h2>
-<p><img src="https://drive.google.com/file/d/1I63zxOzzD9kUZLoO6jUudr_uXLB62T7I/view?usp=sharing" alt="Mini Calculator Output Screenshot"></p>
+<p><img src="https://drive.google.com/uc?id=1I63zxOzzD9kUZLoO6jUudr_uXLB62T7I"></p>
