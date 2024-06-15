@@ -1,10 +1,9 @@
 
-Here's a well-structured document based on the provided information. It includes sections such as the title, intern details, program description, key features, and conclusion, followed by an image placeholder for the screenshot of the project's output.
 
 <h1>Internship Program</h1>
 <h2>Name: Ruchi Tiwari</h2>
-<h2>ID: CT08DS1525</h2>
-<h2>Domain: Data Analysis</h2>
+<h2>ID: CTO8DS1500</h2>
+<h2>Domain: Python</h2>
 <h2>Task: Task-1 (EDA)</h2>
 <h2>Duration: 4 Weeks</h2>
 <h2>Mentor: Santosh Anna</h2>
