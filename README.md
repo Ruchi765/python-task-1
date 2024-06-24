@@ -4,7 +4,7 @@
 <h2>Name: Ruchi Tiwari</h2>
 <h2>ID: CTO8DS1500</h2>
 <h2>Domain: Python</h2>
-<h2>Task: Task-1 (EDA)</h2>
+<h2>Task: Task-1 (Basic Calculator )</h2>
 <h2>Duration: 4 Weeks</h2>
 <h2>Mentor: Santosh Anna</h2>
 <h1>Program Description</h1>
